@@ -1,8 +1,7 @@
-<!--"styles for my resume"-->
-
+/*style*/
 body{
 }
-<!--"my name at top"-->
+/* <!--"my name at top"--> */
 
 h1{
     color:#33485e;
@@ -10,14 +9,14 @@ h1{
     text-align: center;
     text-transform: uppercase;
 }
-<!--"my title"-->
+/* <!--"my title"--> */
 
 strong{
     text-transform: uppercase;
     font-size: 1.5em;
     color:#33485e
 }  
-<!--"section titles"-->
+/* <!--"section titles"--> */
 h2{
     font-size: 1.5em;
     text-transform: uppercase;
@@ -25,18 +24,17 @@ h2{
     color: white;
     font-weight: 400
 }  
-<!--"job titles"-->
+/* <!--"job titles"--> */
 h3{
     font-size: 1.5em;
     font-weight: 600
 }
-<!--"job organization"-->
+/* <!--"job organization"--> */
 h4{
     font-size: 1.5em;
     font-weight: 400
 }
-<!--"job dates"-->
-
+/* <!--"job dates"--> */
 h5{
     font-weight: 400;
     font-size: 1em;
