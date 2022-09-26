@@ -1,0 +1,42 @@
+/*style*/
+body{
+}
+/* <!--"my name at top"--> */
+
+h1{
+    color:#33485e;
+    font-size: 3em;
+    text-align: center;
+    text-transform: uppercase;
+}
+/* <!--"my title"--> */
+
+strong{
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color:#33485e
+}  
+/* <!--"section titles"--> */
+h2{
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color:#33485e;
+    color: white;
+    font-weight: 400
+}  
+/* <!--"job titles"--> */
+h3{
+    font-size: 1.5em;
+    font-weight: 600
+}
+/* <!--"job organization"--> */
+h4{
+    font-size: 1.5em;
+    font-weight: 400
+}
+/* <!--"job dates"--> */
+h5{
+    font-weight: 400;
+    font-size: 1em;
+    font-style: italic;
+}
