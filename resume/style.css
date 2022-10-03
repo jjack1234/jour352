@@ -3,7 +3,11 @@ body{
 }
 /* <!--"my name at top"--> */
 
-h1{
+#name {
+    border: width 60px; 
+    border-style:solid; 
+    border-color:#33485e; 
+    margin: 0px;
     color:#33485e;
     font-size: 3em;
     text-align: center;
