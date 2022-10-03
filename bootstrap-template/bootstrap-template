@@ -17,12 +17,6 @@
 
 
 </head>
-<body>
-
-Hello, World!
-
-
-</body>
 <!-- Navbar start-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
@@ -61,6 +55,13 @@ Hello, World!
     </div>
   </nav>
   <!-- Navbar end-->
+<body>
+
+Hello, World!
+
+
+</body>
+
   
 </html>
 
