@@ -1,46 +1,129 @@
 /*style*/
 body{
 }
-/* <!--"my name at top"--> */
 
+#container{
+    max-width: 1200px;
+    width: 100%;
+    margin:0 auto;
+    margin-bottom: 50px;
+}
+
+/* <!--"my name at top"--> */
 #name {
-    border: width 300px; 
-    border-style:solid; 
-    border-color:#33485e; 
-    margin: 0px;
     color:#33485e;
     font-size: 3em;
     text-align: center;
     text-transform: uppercase;
 }
-/* <!--"my title"--> */
 
-strong{
+/* <!--"my title"--> */
+#title{
     text-transform: uppercase;
     font-size: 1.5em;
     color:#33485e
 }  
+
 /* <!--"section titles"--> */
-h2{
+#sectionheader{
     font-size: 1.5em;
     text-transform: uppercase;
     background-color:#33485e;
     color: white;
     font-weight: 400
 }  
+
 /* <!--"job titles"--> */
-h3{
+#jobtitle{
     font-size: 1.5em;
     font-weight: 600
 }
+
 /* <!--"job organization"--> */
-h4{
-    font-size: 1.5em;
+#organization{
+    font-size: 1.25em;
     font-weight: 400
 }
+
 /* <!--"job dates"--> */
-h5{
+#date{
     font-weight: 400;
     font-size: 1em;
     font-style: italic;
 }
+
+
+/* <!--"part 2 of the assignment"--> */
+
+#name {
+    min-width: 300px;
+    width: 60%;
+    border-bottom: 1px solid #33485e;
+    margin: 0 auto;
+}
+
+#sectionheader {
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 70%;
+    min-width: 300px;
+}
+
+#date{
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px
+}
+
+#description{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px
+}
+
+#menu{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    display: inline
+}
+#ul{
+    display: inline
+}
+
+#degrees{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px; 
+}
+
+#do{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#title{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-weight: 600
+}  
+
+#top{
+    min-width: 300px;
+    width: 60%;
+    margin:0 auto;
+    margin-bottom: 30px;
+} 
+
