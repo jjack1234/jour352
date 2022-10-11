@@ -88,12 +88,18 @@ body{
 #menu{
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
+}
+
+#menu li{
     display: inline
 }
 
+#menu ul{
+    display: inline
+}
 
 #degrees{
     margin-top: 5px;
@@ -124,4 +130,11 @@ body{
     margin:0 auto;
     margin-bottom: 30px;
 } 
+
+#do{
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px; 
+}
 
