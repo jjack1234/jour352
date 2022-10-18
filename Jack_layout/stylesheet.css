@@ -4,11 +4,30 @@
   } 
 
   #masthead{
-    width: 80%;
+    width: 100%;
 } 
 
+#pic1{
+    width: 50%;
+} 
+
+#pic2{
+    width: 50%;
+} 
+
+#pic3{
+    width: 50%;
+} 
+
+#gif{
+    width: 50%;
+} 
+
+
 #title{
-text-align: center;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
 } 
 
 #byline{
@@ -16,3 +35,9 @@ text-align: center;
     font-size: 14px;
     font-style: italic;
     } 
+
+#article{
+    font-family: Georgia, serif;
+    font-size: 13px;
+    font-style: normal
+} 
