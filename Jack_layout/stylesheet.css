@@ -41,3 +41,10 @@
     font-size: 13px;
     font-style: normal
 } 
+
+#blockquote{
+    font-family: cursive, fantasy;
+    font-size: 22px;
+    font-style: italic;
+    color: blue
+}
