@@ -15,3 +15,7 @@
     column-count: 2;
     column-rule-width: 1px;
 }
+
+#firstheader{
+    text-align: center
+}
