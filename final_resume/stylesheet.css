@@ -2,20 +2,34 @@
     width: 90%;
 } 
 
-#columns{
+#columns_x{
     column-count: 2;
     column-rule-width: 1px;
   }
 
-#experience_section{
-    column-span: 1;
-}
 
-#columns_x{
-    column-count: 2;
-    column-rule-width: 1px;
-}
 
 #firstheader{
-    text-align: center
-}
+    text-align: center;
+    text-transform: uppercase;
+    border-color:gray;
+    border-style: dotted;
+    color: gray;
+}  
+
+
+#sectionheader{
+    text-transform: uppercase;
+    text-align: center;
+    border-color:gray;
+    border-style: dotted;
+    color: gray;
+}  
+
+
+#pagewrapper{
+    max-width: 1000px;
+    width: 100%;
+    margin:0 auto;
+    margin-bottom: 50px;
+    }
