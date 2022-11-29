@@ -1,0 +1,22 @@
+#pagewrapper{
+    max-width: 1000px;
+    width: 60%;
+    margin:0 auto;
+    margin-bottom: 50px;
+    }
+
+#title{
+    text-align: center;
+    font-family: "Lucida bright", serif;
+    font-size: 40px;
+    font-style: regular;
+
+} 
+
+#subtitle{
+    font-family: "Lucida bright", sans-serif;
+    font-size: 22px;
+    font-style: italic;
+
+} 
+
