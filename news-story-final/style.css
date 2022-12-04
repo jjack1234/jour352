@@ -6,9 +6,9 @@
     }
 
 
-    #masthead{
-        width: 100%;
-    } 
+ #masthead{
+    width: 100%;
+ } 
     
 #title{
     text-align: center;
@@ -22,24 +22,28 @@
     font-family: "Lucida bright", sans-serif;
     font-size: 22px;
     font-style: italic;
+    line-height: 0.5;
 } 
 
 #subtitle2{
     font-family: "Lucida bright", sans-serif;
     font-size: 22px;
     font-style: italic;
+    line-height: 0.5;
 } 
 
 #subtitle3{
     font-family: "Lucida bright", sans-serif;
     font-size: 22px;
     font-style: italic;
+    line-height: 0.5;
 } 
 
 #subtitle4{
     font-family: "Lucida bright", sans-serif;
     font-size: 22px;
     font-style: italic;
+    line-height: 0.5;
 } 
 
 p {
@@ -53,8 +57,10 @@ p {
     font-family: Lucida bright, fantasy;
     font-size: 30px;
     font-style: italic;
-    color: #931B94;
-    text-align: right;
+    text-align: center;
+    float: right;
+    padding: 0 20px 20px 0;
+    line-height: 0.5;
 }
 
 
