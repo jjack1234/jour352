@@ -7,7 +7,7 @@
 
 
     #masthead{
-        width: 90%;
+        width: 100%;
     } 
     
 #title{
@@ -15,26 +15,32 @@
     font-family: "Lucida bright", serif;
     font-size: 40px;
     font-style: regular;
-
 } 
 
-.darken {
-    background-image: 
-      linear-gradient(
-        rgba(0, 0, 0, 0.5),
-        rgba(0, 0, 0, 0.5)
-      ),
-      url(shoes.jpg);
-  }
 
-
-#subtitle{
+#subtitle1{
     font-family: "Lucida bright", sans-serif;
     font-size: 22px;
     font-style: italic;
-
 } 
 
+#subtitle2{
+    font-family: "Lucida bright", sans-serif;
+    font-size: 22px;
+    font-style: italic;
+} 
+
+#subtitle3{
+    font-family: "Lucida bright", sans-serif;
+    font-size: 22px;
+    font-style: italic;
+} 
+
+#subtitle4{
+    font-family: "Lucida bright", sans-serif;
+    font-size: 22px;
+    font-style: italic;
+} 
 
 p {
     line-height: 1.75;
@@ -51,6 +57,27 @@ p {
     text-align: right;
 }
 
+
+#glacier1{
+    width: 40%;
+    float: left;
+    padding: 0 20px 20px 0;
+} 
+
+#glacier2{
+    width: 40%;
+    float: left;
+    padding: 0 20px 20px 0;
+} 
+
+
+#sunset{
+    width: 30%;
+    float: right;
+    padding: 0 20px 20px 0;
+} 
+
+
 .footer {
     left: 0;
     bottom: 0;
@@ -59,3 +86,16 @@ p {
     color: white;
     text-align: center;
   }
+
+
+ #glacier.gif{
+    float: right;
+    padding: 0 20px 20px 0;
+    }
+
+    #tools{
+        width: 30%;
+        float: right;
+        padding: 0 20px 20px 0;
+    } 
+    
