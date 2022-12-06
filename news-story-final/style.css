@@ -70,6 +70,9 @@ p {
     padding: 0 20px 20px 0;
 } 
 
+#glacier1 img{
+    width: 100%
+}
 
 #glacier2{
     width: 40%;
@@ -77,6 +80,9 @@ p {
     padding: 0 20px 20px 0;
 } 
 
+#glacier2 img{
+    width: 100%
+}
 
 #sunset{
     width: 30%;
@@ -84,6 +90,9 @@ p {
     padding: 0 20px 20px 0;
 } 
 
+#sunset img{
+    width: 100%
+}
 
 .footer {
     left: 0;
@@ -105,4 +114,8 @@ p {
         float: right;
         padding: 0 20px 20px 0;
     } 
+
+    #tools img{
+        width: 100%
+    }
     
